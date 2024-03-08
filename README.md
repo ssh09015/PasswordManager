@@ -5,5 +5,5 @@
 2. decryptEdge
 3. printPasswordManger
 
-# 무차별 대입 공격 스크립트
+# keepass 데이터베이스 해시 값 추출
 1. keepass2john
