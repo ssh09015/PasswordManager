@@ -1,4 +1,5 @@
 # PasswordManager
+- 분석 일지: https://www.notion.so/4bec8d325a1046878caf17f37c749c80?pvs=4
 
 ## 크롬, 엣지 통합 패스워드 매니저 복호화 스크립트
 1. decryptChrome
